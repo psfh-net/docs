@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "f06ab206ada11e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d66b172e4d6207a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97c51c4498401248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Authentication/Keycloak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56e40bd4be2530f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "36dab7bcfbab5c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3566e7694a85aa51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f519d54a1ac5313",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9fae92593970b0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbc81bde1cd13850",
+    "type": "split",
+    "children": [
+      {
+        "id": "a719c9c256e3d917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec9691bec9df426a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software/Authentication/Keycloak.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e2f29e167e48d02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software/Authentication/Keycloak.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fc5d4d403594728",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2a61a00279b4911",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software/Authentication/Keycloak.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "97c51c4498401248",
+  "lastOpenFiles": [
+    "Software/Authentication/Keycloak.md",
+    "Software/Authentication/Authentik.md",
+    "Software/Authentication/Authelia.md",
+    "README.md",
+    "cheatsheets",
+    "Software/Authentication",
+    "OS",
+    "Hardware",
+    "Software"
+  ]
+}
