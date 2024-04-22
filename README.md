@@ -6,15 +6,14 @@ Some Pages will be empty. They are only there as a reminder or hint for future i
 This repo is not there to store configs or setup instructions. For this we will use separate repos.
 
 ## Table of Contents
-├── cheatsheets
-├── hardware
-├── os
-├── software
-│   └── authentication
-│       ├── [Authelia](software/authentication/Authelia.md)
-│       ├── [Authentik](software/authentication/Authentik.md)
-│       └── [Keycloak](software/authentication/Keycloak.md)
-├── [backup](backup.md)
+- cheatsheets
+- hardware
+- os
+- software
+   - authentication
+       - [Authelia](software/authentication/Authelia.md)
+       - [Authentik](software/authentication/Authentik.md)
+       - [Keycloak](software/authentication/Keycloak.md)
 
 ## Contribution
 
