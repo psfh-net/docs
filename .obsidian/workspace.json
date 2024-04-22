@@ -145,12 +145,12 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "ec9691bec9df426a",
+  "active": "97c51c4498401248",
   "lastOpenFiles": [
     "Software/Authentication/Keycloak.md",
+    "README.md",
     "Software/Authentication/Authentik.md",
     "Software/Authentication/Authelia.md",
-    "README.md",
     "cheatsheets",
     "Software/Authentication",
     "OS",
