@@ -147,14 +147,28 @@
   },
   "active": "97c51c4498401248",
   "lastOpenFiles": [
+    "generate_tableofcontents.py",
+    "backup.md",
+    "software/authentication/Keycloak.md",
+    "software/authentication/Authentik.md",
+    "software/authentication/Authelia.md",
+    "software/authentication",
+    "software",
+    "Software/authentication/Keycloak.md",
+    "Software/authentication/Authentik.md",
+    "Software/authentication/Authelia.md",
+    "Software/authentication",
+    "os",
+    "hardware",
+    "README3.md",
+    "generate_tableofcontents2.py",
+    "generate_tableofcontents copy.py",
+    "README2.md",
     "Software/Authentication/Keycloak.md",
     "README.md",
     "Software/Authentication/Authentik.md",
     "Software/Authentication/Authelia.md",
     "cheatsheets",
-    "Software/Authentication",
-    "OS",
-    "Hardware",
-    "Software"
+    "Software/Authentication"
   ]
 }
