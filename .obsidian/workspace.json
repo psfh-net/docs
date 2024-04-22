@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Authentication/Keycloak.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Authentication/Keycloak.md",
-                "collapseAll": false,
+                "file": "README.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Authentication/Keycloak.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Authentication/Keycloak.md"
+                "file": "README.md"
               }
             }
           }
@@ -145,7 +145,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "97c51c4498401248",
+  "active": "ec9691bec9df426a",
   "lastOpenFiles": [
     "Software/Authentication/Keycloak.md",
     "Software/Authentication/Authentik.md",
